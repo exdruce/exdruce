@@ -256,7 +256,7 @@
 
  - **📁** [**Tidyfi**](https://github.com/divyanshudhruv/Tidyfi): A python `file` organizer
 </details> -->
- <details>
+ <!-- <details>
  <summary>
  <h2><b>🪐 My Gitroll</b></h2></summary>
 
@@ -264,7 +264,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://api.githubtrends.io/user/svg/exdruce/repos?time_range=six_months&include_private=True&loc_metric=changed&theme=dark"/>
 
-</details>
+</details> -->
  <br>
 
  **<h2 align="left">🤖 GitHub Stats</h2>**
