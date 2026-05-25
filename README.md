@@ -17,7 +17,7 @@
   <ul align="left" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, I'm Syed Exdruce
+        👋 Hi, I'm Hafiz Aledros
       </h1>
     </summary>
   </ul>
